@@ -2,6 +2,6 @@ package java;
 
 public class GitPractice {
     public static void main(String[] args) {
-        System.out.println("Git Practice");
+        System.out.println("Git Practice 2nd commit");
     }
 }
