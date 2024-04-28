@@ -5,5 +5,6 @@ public class GitPractice {
         System.out.println("Git Practice 2nd commit");
         System.out.println("Git commit 2");
         System.out.println("Git commit 3");
+        System.out.println("Git commit 4");
     }
 }
