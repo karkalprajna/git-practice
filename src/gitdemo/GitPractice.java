@@ -6,6 +6,5 @@ public class GitPractice {
         System.out.println("Git commit 2");
         System.out.println("Git commit 3");
         System.out.println("Git commit 4");
-        System.out.println("Git commit 5");
     }
 }
